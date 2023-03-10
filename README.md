@@ -6,7 +6,7 @@
 - 😄 Pronouns: ela/dela
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayseps&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayseps&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   
