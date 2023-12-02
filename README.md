@@ -1,5 +1,7 @@
-## Oii! Sou Thayse Pereira.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Thayse:%29)](https://git.io/typing-svg)
 
+
+## Sobre mim:
 
 - 🔭 Open to work
 - 🌱 I’m currently learning Python
