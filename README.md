@@ -22,7 +22,6 @@
       <h2>Contact</h2>
       <ul>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/thayse-pereira-14542a254/">Thayse Pereira</a></li>
-        <li>ib: <a href="https://github.com/SergioBonatto">Sergio(vlw)</a></li>
       </ul>
     </td>
   </tr>
