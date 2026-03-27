@@ -21,8 +21,7 @@
       </ul>
       <h2>Contact</h2>
       <ul>
-        <li>Twitter: <a href="https://twitter.com/thayseps">thayseps</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/">Thayse Pereira</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/thayse-pereira-14542a254/">Thayse Pereira</a></li>
         <li>ib: <a href="https://github.com/SergioBonatto">Sergio(vlw)</a></li>
       </ul>
     </td>
