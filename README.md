@@ -1,23 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Thayse:%29)](https://git.io/typing-svg)
-
-
-## Sobre mim:
-
-- 🌱 I’m currently learning Python
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayseps&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayseps&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-</div>
-  
-##
-<div>
-   <a href="https://instagram.com/thayse_ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href = "mailto:thayseps21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thayse-pereira-14542a254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<table>
+  <tr>
+    <td  width="400">
+      <img src="warrior-figure.avif" width="400" alt="Warrior - Basquiat">
+    </td>
+    <td valign="top">
+      <h1>Thayse Pereira</h1>
+      <p>Data engineer focused on build pipelines, replication, AWS, SQL and python. Work spans formal methods, functional programming, and operating systems. Main interests include cloud computing, devops, cloud infrastructure, and learn to play my guitar.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Cloud Computing</li>
+        <li>Data pipelines(ETL & ELT)</li>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Loading...</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: Python</li>
+        <li>Applications: Data engineering</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>Twitter: <a href="https://twitter.com/thayseps">thayseps</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/">Thayse Pereira</a></li>
+        <li>ib: <a href="https://github.com/SergioBonatto">Sergio(vlw)</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
