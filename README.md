@@ -9,7 +9,7 @@
       <h2>Areas of Interest</h2>
       <ul>
         <li>Cloud Computing</li>
-        <li>Data pipelines(ETL & ELT)</li>
+        <li>Data engineering</li>
         <li>Python</li>
         <li>SQL</li>
         <li>Loading...</li>
